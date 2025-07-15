@@ -1,0 +1,337 @@
+{
+  "main": {
+    "id": "4a311a704ccf9abd",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cc57de7c5c9cbad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd472104840510a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Docker实战攻略.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker实战攻略"
+            }
+          },
+          {
+            "id": "510ec99b39050dc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "3c4e99cfa1f80bf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "7850fec66af81092",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/2. Docker 安装.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Docker 安装"
+            }
+          },
+          {
+            "id": "7fc4ac02bdde747f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Docker实战攻略.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker实战攻略"
+            }
+          },
+          {
+            "id": "c6bddf424746130f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Docker实战攻略.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker实战攻略"
+            }
+          },
+          {
+            "id": "ba39e3d00e2084eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/2. Docker 安装.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Docker 安装"
+            }
+          },
+          {
+            "id": "c1e865543bbc3757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/2. Docker 安装.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Docker 安装"
+            }
+          },
+          {
+            "id": "e13fa300c20ca7b4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9862f704781b6f32",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e8bd5ef215c3b13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6e897d67fa3c833",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3db9a1dc19ba872f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "524bea834dfbb9ae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cae24ae31d49e1a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9658e78d10a37b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e22a19d2374a5b40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "f2286c99f456fe56",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "35f870c6a43f16d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "9b7c279daa3a0967",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "fa4398d0ed3c65f9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3c4e99cfa1f80bf6",
+  "lastOpenFiles": [
+    "Git-usage/在Obsidian中直接使用Git.md",
+    "Git-usage/images",
+    "Git-usage/images/obsidian-git-icon.png",
+    "README.md",
+    "Docker/2. Docker 安装.md",
+    "Docker/3. 下载镜像.md",
+    "Docker/4. 运行容器.md",
+    "Docker/Docker实战攻略.md",
+    "Docker/Windows docker 初始化报错.md",
+    "Git/使用Git将本地文件夹同步至github.md",
+    "Git",
+    "因果推断/基础方法/基础方法.md",
+    "因果推断/references/CausalMLBook-因果机器学习.md",
+    "因果推断/基础理论/基础理论.md",
+    "因果推断/基础理论/020 干预和潜在结果.md",
+    "因果推断/因果推断.md",
+    "因果推断/基础理论/000 内生性问题的主要来源.md",
+    "Docker/images/docker desktop error.png",
+    "Docker/5. 常用命令示例.md",
+    "Docker/images/download-docker.png",
+    "Docker/Linux/如何使用 WSL 在 Windows 上安装 Linux.md",
+    "Docker/images/install-Ubuntu-22.04.png",
+    "Docker/images/Linux username.png",
+    "Docker/images/install-ubuntu.png",
+    "Docker/images/WSL-install.png",
+    "Docker/images",
+    "Docker/New folder",
+    "Docker/Linux/设置 WSL 开发环境.md",
+    "Docker/Linux",
+    "Docker",
+    "因果推断/基础方法/053 协变量匹配的 stata 命令.md",
+    "因果推断/基础方法/052 粗化精确匹配.md",
+    "因果推断/基础方法/051 马氏匹配.md",
+    "因果推断/基础方法/050 精确匹配.md",
+    "因果推断/基础方法/第五章 协变量匹配.md",
+    "因果推断/基础方法/第四章 线性回归.md",
+    "因果推断/references/因果推断：从概念到实践.md",
+    "因果推断/基础理论/021 干预效应.md",
+    "因果推断/cases",
+    "obsidian-explore/images/sorting-cards.gif",
+    "obsidian-explore/images/movie-gallery-alt.png",
+    "obsidian-explore/images/movie-gallery.png",
+    "obsidian-explore/images/未确认 599039.crdownload",
+    "obsidian-explore/images",
+    "obsidian-explore/New folder"
+  ]
+}
