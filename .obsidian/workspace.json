@@ -50,59 +50,17 @@
             }
           },
           {
-            "id": "7850fec66af81092",
+            "id": "fc930edf567ac82c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/2. Docker 安装.md",
+                "file": "SAS/SAS 学习记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Docker 安装"
-            }
-          },
-          {
-            "id": "7fc4ac02bdde747f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Docker实战攻略.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Docker实战攻略"
-            }
-          },
-          {
-            "id": "c6bddf424746130f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Docker实战攻略.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Docker实战攻略"
-            }
-          },
-          {
-            "id": "ba39e3d00e2084eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/2. Docker 安装.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Docker 安装"
+              "title": "SAS 学习记录"
             }
           },
           {
@@ -123,14 +81,60 @@
             "id": "e13fa300c20ca7b4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "3683027af7ece3e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "99f3ea7392c7413b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "因果推断/基础理论/020 干预和潜在结果.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "020 干预和潜在结果"
+            }
+          },
+          {
+            "id": "d85f78904b3297c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "因果推断/基础理论/020 干预和潜在结果.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "020 干预和潜在结果"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -203,6 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "因果推断/基础理论/020 干预和潜在结果.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "020 干预和潜在结果 的反向链接列表"
             }
           },
           {
@@ -272,7 +277,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,23 +291,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c4e99cfa1f80bf6",
+  "active": "d85f78904b3297c5",
   "lastOpenFiles": [
+    "因果推断/authors/奈曼(Jerzy Neyman).md",
+    "因果推断/基础理论/020 干预和潜在结果.md",
+    "因果推断/基础理论/012 对观察数据进行因果分析.md",
+    "因果推断/基础理论/011 随机对照试验.md",
+    "因果推断/基础理论/021 干预效应.md",
+    "SAS/SAS 学习记录.md",
+    "README.md",
+    "Git-usage/Git-usage.md",
     "Git-usage/在Obsidian中直接使用Git.md",
+    "Git-usage/使用Git将本地文件夹同步至github.md",
+    "obsidian-explore/obsidian-learning.md",
+    "Docker/2. Docker 安装.md",
+    "Docker/Docker实战攻略.md",
+    "obsidian-explore/Obsidian Minimal Theme.md",
+    "SAS/SAS Viya应用简介.md",
+    "SAS",
     "Git-usage/images",
     "Git-usage/images/obsidian-git-icon.png",
-    "README.md",
-    "Docker/2. Docker 安装.md",
     "Docker/3. 下载镜像.md",
     "Docker/4. 运行容器.md",
-    "Docker/Docker实战攻略.md",
     "Docker/Windows docker 初始化报错.md",
     "Git/使用Git将本地文件夹同步至github.md",
     "Git",
     "因果推断/基础方法/基础方法.md",
     "因果推断/references/CausalMLBook-因果机器学习.md",
     "因果推断/基础理论/基础理论.md",
-    "因果推断/基础理论/020 干预和潜在结果.md",
     "因果推断/因果推断.md",
     "因果推断/基础理论/000 内生性问题的主要来源.md",
     "Docker/images/docker desktop error.png",
@@ -315,23 +331,13 @@
     "Docker/images/WSL-install.png",
     "Docker/images",
     "Docker/New folder",
-    "Docker/Linux/设置 WSL 开发环境.md",
     "Docker/Linux",
     "Docker",
-    "因果推断/基础方法/053 协变量匹配的 stata 命令.md",
-    "因果推断/基础方法/052 粗化精确匹配.md",
-    "因果推断/基础方法/051 马氏匹配.md",
-    "因果推断/基础方法/050 精确匹配.md",
-    "因果推断/基础方法/第五章 协变量匹配.md",
-    "因果推断/基础方法/第四章 线性回归.md",
-    "因果推断/references/因果推断：从概念到实践.md",
-    "因果推断/基础理论/021 干预效应.md",
     "因果推断/cases",
     "obsidian-explore/images/sorting-cards.gif",
     "obsidian-explore/images/movie-gallery-alt.png",
     "obsidian-explore/images/movie-gallery.png",
     "obsidian-explore/images/未确认 599039.crdownload",
-    "obsidian-explore/images",
-    "obsidian-explore/New folder"
+    "obsidian-explore/images"
   ]
 }
