@@ -86,3 +86,5 @@ remote: Resolving deltas: 100% (9/9), completed with 9 local objects.
 To https://github.com/zhoulvbang/PUMC-Obsidian.git
    e634c6a..e476585  main -> main
 ```
+
+2025-07-17，一般会挂VPN，需要注意把VPN的端口也调整为 `git config --global http.proxy http://127.0.0.1:7890` 中设置的端口。

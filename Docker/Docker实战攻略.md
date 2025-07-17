@@ -33,7 +33,7 @@ C:\Users\asus>wsl -d Ubuntu-22.04
 zhou@simonzhou:/mnt/c/Users/asus$
 ```
 
-例如，你想快速部署一个 nginx 服务器：
+例如，你想快速部署一个 [[Nginx]] 服务器：
 
 ```bash
 docker pull nginx
