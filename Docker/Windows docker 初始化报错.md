@@ -13,6 +13,51 @@
 
 ---
 
+2025-07-17
+
+进入 docker desktop 出现上述报错，目前排查原因应该是因为Windows下安装了次级Linux，这和 docker 中的Linux相冲突。
+
+```bash
+C:\Users\asus>wsl -l -v 
+NAME STATE VERSION 
+* Ubuntu-22.04 Stopped 1 
+* docker-desktop Running 2
+
+C:\Users\asus>wsl -d Ubuntu-22.04 
+Welcome to Ubuntu 22.04.5 LTS (GNU/Linux 4.4.0-19041-Microsoft x86_64)
+
+* Documentation: https://help.ubuntu.com 
+* Management: https://landscape.canonical.com 
+* Support: https://ubuntu.com/pro
+
+System information as of Thu Jul 17 18:45:17 CST 2025
+```
+
+调整
+```bash
+C:\Users\asus>wsl --set-version Ubuntu-22.04 2
+For information on key differences with WSL 2 please visit https://aka.ms/wsl2
+Conversion in progress, this may take a few minutes.
+The operation completed successfully.
+```
+
+```bash
+C:\Users\asus>wsl -l -v
+  NAME              STATE           VERSION
+* Ubuntu-22.04      Running         2
+  docker-desktop    Running         2
+```
+
+## fix integration
+
+**Check Docker Desktop WSL Integration Settings**
+
+- Open Docker Desktop, go to **Settings > Resources > WSL Integration**.
+- Ensure the option "Enable integration with my default WSL distro" is checked.
+- Under "Enable integration with additional distros," ensure Ubuntu-22.04 is toggled on.
+- Click **Apply & Restart** to reapply the settings.商
+---
+
 # ✅ **检查步骤**
 
 ## 1. 重启 Docker Desktop
