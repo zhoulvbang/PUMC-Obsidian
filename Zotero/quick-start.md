@@ -7,8 +7,6 @@
 
 ### 如何安装 Zotero?
 
-阅读 [安装 Zotero](install.md)
-
 ### 如何打开 Zotero?
 
 ![image](../quick-start/快速上手-打开zotero.png)
@@ -71,7 +69,7 @@ Zotero 是一个文献管理软件。它旨在存储、管理和引用参考书�
 
 [![image](../quick-start/快速上手-笔记.png)](https://www.zotero.org/support/notes)
 
-富文本 [笔记](https://www.zotero.org/support/notes) 可以附加到任何条目。可以在右侧窗格或独立窗口中进行编辑。单击工具栏中的新建笔记按钮 ![image](../assets/icons/toolbar-note-add.png)以创建笔记。
+富文本 [笔记](https://www.zotero.org/support/notes) 可以附加到任何条目。可以在右侧窗格或独立窗口中进行编辑。单击工具栏中的 新建笔记按钮 以创建笔记。
 
 ### 文件
 

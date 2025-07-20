@@ -223,10 +223,3 @@ docker info
 ✅ 文件系统损坏  
 ✅ Docker Desktop bug
 
-告诉我：
-
-- 你的 Windows 版本号
-- Docker Desktop 版本号
-- 完整错误信息
-
-我可以帮你更精准排查！
