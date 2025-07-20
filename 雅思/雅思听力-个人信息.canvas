@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"26612dafd78f1b71","x":-315,"y":-220,"width":360,"height":50,"type":"text","text":"life English——part 1——by conversation"},
+		{"id":"d1c669129f011558","x":-260,"y":-52,"width":250,"height":60,"type":"text","text":"personal information"},
+		{"id":"abf41ba9dac6f104","x":140,"y":-225,"width":250,"height":60,"type":"text","text":"租房、逛超市、旅行、问询"},
+		{"id":"869eeeab8d1b0edf","x":140,"y":-52,"width":250,"height":60,"type":"text","text":"conversation"},
+		{"id":"1d4709bad292841d","x":-620,"y":-220,"width":250,"height":50,"type":"text","text":"旅行、文化、实习、规定"},
+		{"id":"92fd6df6bf99e205","x":-260,"y":125,"width":250,"height":60,"type":"text","text":"academia English——part 3"},
+		{"id":"bc3bf1b78cf89e08","x":-620,"y":-52,"width":250,"height":60,"type":"text","text":"monologue——part 2——by life condition"},
+		{"id":"8d6aca1830278385","x":-642,"y":100,"width":294,"height":110,"type":"text","text":"lecture（科技场景、动物、天文地理、微生物等）"},
+		{"id":"5aa7c04ae5ebd60c","x":143,"y":122,"width":250,"height":98,"type":"text","text":"同学之间的讨论（选课、作业、项目等）\n同学和老师之间的讨论（答疑、research）"}
+	],
+	"edges":[
+		{"id":"2f0c8c40506f5c0d","fromNode":"d1c669129f011558","fromSide":"right","toNode":"869eeeab8d1b0edf","toSide":"left"},
+		{"id":"ea55172269006ef6","fromNode":"d1c669129f011558","fromSide":"top","toNode":"26612dafd78f1b71","toSide":"bottom"},
+		{"id":"7b3cebd5cc64ff7b","fromNode":"d1c669129f011558","fromSide":"left","toNode":"bc3bf1b78cf89e08","toSide":"right"},
+		{"id":"ce406e04351765c0","fromNode":"d1c669129f011558","fromSide":"bottom","toNode":"92fd6df6bf99e205","toSide":"top"},
+		{"id":"c83bb7314296da97","fromNode":"26612dafd78f1b71","fromSide":"right","toNode":"abf41ba9dac6f104","toSide":"left"},
+		{"id":"677cb5c44f75623a","fromNode":"bc3bf1b78cf89e08","fromSide":"top","toNode":"1d4709bad292841d","toSide":"bottom"},
+		{"id":"95dc444a5e9edc54","fromNode":"92fd6df6bf99e205","fromSide":"left","toNode":"8d6aca1830278385","toSide":"right"},
+		{"id":"a7f99c90f9d9917a","fromNode":"869eeeab8d1b0edf","fromSide":"top","toNode":"abf41ba9dac6f104","toSide":"bottom"},
+		{"id":"ab4d2b549f656d8f","fromNode":"26612dafd78f1b71","fromSide":"left","toNode":"1d4709bad292841d","toSide":"right"},
+		{"id":"7db2fce2b8051a90","fromNode":"bc3bf1b78cf89e08","fromSide":"bottom","toNode":"8d6aca1830278385","toSide":"top"},
+		{"id":"fd077805191afd09","fromNode":"869eeeab8d1b0edf","fromSide":"bottom","toNode":"5aa7c04ae5ebd60c","toSide":"top"}
+	]
+}
