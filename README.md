@@ -29,6 +29,8 @@ Obsidian 的插件中有一个可用与直接在 Obsidian 中连接 GitHub实现
 
 2025-07-21，新开贝叶斯统计笔记[[Bayesian Modeling and Computation]]
 
+2025-07-22，新开Python 数据分析笔记[[Python数据分析]]
+
 ---
 # 更新记录
 
