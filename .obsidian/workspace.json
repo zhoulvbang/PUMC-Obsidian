@@ -36,73 +36,35 @@
             }
           },
           {
-            "id": "39c312831d172a70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "因果推断/基础理论/021 干预效应.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "021 干预效应"
-            }
-          },
-          {
-            "id": "bf697991d3f65f4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "因果推断/基础理论/022 可忽略性假定.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "022 可忽略性假定"
-            }
-          },
-          {
-            "id": "c86aad7edb532fdc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
             "id": "b7d3988d3ebf2fde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/data analysis/Python数据分析.md",
+                "file": "因果推断/基础理论/030 因果图的概率和要素.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python数据分析"
+              "title": "030 因果图的概率和要素"
             }
           },
           {
-            "id": "ece36c1ebadaef78",
+            "id": "dc0eebabae4b3d1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/data analysis/Python数据分析.md",
+                "file": "待分类/结构方程模型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python数据分析"
+              "title": "结构方程模型"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -259,12 +221,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ece36c1ebadaef78",
+  "active": "b7d3988d3ebf2fde",
   "lastOpenFiles": [
-    "README.md",
+    "待分类/结构方程模型.md",
+    "因果推断/基础理论/030 因果图的概率和要素.md",
     "obsidian-explore/obsidian-learning.md",
-    "obsidian-explore/在obsidian中使用 Python.md",
+    "因果推断/基础理论/第三章 因果图.md",
+    "因果推断/基础理论/022 可忽略性假定.md",
     "Python/data analysis/Python数据分析.md",
+    "Python/images/selecting coloums.png",
+    "Python/images/selection.png",
+    "Python/images/analogy-attributes-methods.png",
+    "因果推断/基础理论/021 干预效应.md",
+    "Python/images/attributes and methods.png",
+    "Python/images/object type.png",
+    "Git-usage/images/unable to access.png",
+    "Git-usage/images/obsidian-git-icon.png",
+    "Git-usage/GitHub 报错汇总.md",
+    "README.md",
+    "obsidian-explore/在obsidian中使用 Python.md",
     "Python/dataset/survey_data.csv",
     "Python/data analysis/Survey_Data.csv",
     "Python/data analysis/dataset/Survey_Data.csv",
@@ -278,19 +253,13 @@
     "Python/images/data analysis.png",
     "Python/images/pandas.png",
     "Python/images",
-    "Python/images/import modules.png",
-    "因果推断/基础理论/022 可忽略性假定.md",
-    "因果推断/基础理论/第三章 因果图.md",
-    "因果推断/基础理论/021 干预效应.md",
     "待分类/待分类.md",
     "雅思/雅思听力.md",
     "贝叶斯统计/Bayesian Modeling and Computation.md",
     "贝叶斯统计/贝叶斯统计参考资料.md",
     "雅思/听力个人信息表.md",
     "Git-usage/修改Github项目语言.md",
-    "雅思/images/form completion.png",
     "Git-usage/Git-usage.md",
-    "雅思/images/listen-question.png",
     "雅思/雅思听力-个人信息.canvas",
     "AI 辅助编程/Trae.md",
     "Zotero/quick-start.md",
@@ -300,12 +269,6 @@
     "Git-usage/Git 主要用法.md",
     "Docker/4. 运行容器.md",
     "Docker/5. 常用命令示例.md",
-    "Docker/6. Dcoker run 其他参数.md",
-    "Docker/images/html-test.png",
-    "Docker/images/docker-403.png",
-    "Docker/Docker 报错与存疑.md",
-    "Docker/Windows docker 初始化报错.md",
-    "Zotero/quick-start/toolbar-collection-add.png",
-    "Zotero/quick-start/快速上手-附件.png"
+    "Docker/6. Dcoker run 其他参数.md"
   ]
 }

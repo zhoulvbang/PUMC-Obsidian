@@ -48,6 +48,66 @@ import pandas as pd
 
 df = pd.read_csv("E:/Obsidian/PUMC-Obsidian/Python/dataset/survey_data.csv", low_memory=False)
 
+# print the default row - 5
 print(df.head())
 ```
+
+可以在 `df.head(?)` 指定你需要查看的行数。
+
+使用 `df.sample()` 查看 `df` 中的随机一行，如果给定数值，则出随机给出对应 ？ 行随机数据。
+
+查看所有的列名：
+
+```python
+df.colums
+```
+
+查看每列数据的数据类型，主要类型有 string、float、object 等。
+
+```python
+df.dtypes
+```
+
+总结所有的数据类型信息：
+
+```python
+df.info()
+```
+
+![[object type.png]]
+
+## 属性和方法
+
+![[attributes and methods.png]]
+
+### analogy
+
+![[analogy-attributes-methods.png]]
+## 列选择
+
+![[selection.png]]
+
+查看制定的一列：
+
+```python
+languages = df["LanguageAtHome"]
+
+# check type
+type(languages)
+
+print(languages.head())
+
+# check length
+print(len(languages))
+
+# unique
+unique_languages = pd.unique(language)
+print(unique_languages)
+
+# how much languages
+pringt(len(unique_languages))
+```
+
+![[selecting coloums.png]]
+## 计数、求和与直方图
 

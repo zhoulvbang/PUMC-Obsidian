@@ -90,3 +90,10 @@ To https://github.com/zhoulvbang/PUMC-Obsidian.git
 2025-07-17，一般会挂VPN，需要注意把VPN的端口也调整为 `git config --global http.proxy http://127.0.0.1:7890` 中设置的端口。
 
 2025-07-18，挂了VPN后，port 一致，但是push报错，解决办法：关闭VPN，退出clash，然后解除proxy，再重新push，成功。
+
+---
+2025-07-22
+
+![[unable to access.png]]
+
+将VPN和setting中的proxy页面都关闭后重启再上传。
