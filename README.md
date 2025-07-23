@@ -25,7 +25,7 @@ Obsidian 的插件中有一个可用与直接在 Obsidian 中连接 GitHub实现
 
 2025-07-20，AI 辅助编程一些记录[[Trae]]
 
-2025-07-20，新开雅思笔记[[雅思听力]]
+2025-07-20，新开雅思笔记[[雅思学习备忘录]]
 
 2025-07-21，新开贝叶斯统计笔记[[Bayesian Modeling and Computation]]
 
