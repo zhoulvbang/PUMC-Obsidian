@@ -36,7 +36,7 @@ df = pd.read_csv("E:/Obsidian/PUMC-Obsidian/Python/dataset/survey_data.csv", low
 print(type(df))
 
 # check out
-df
+print(df)
 ```
 
 ![[read csv.png]]
@@ -59,7 +59,7 @@ print(df.head())
 查看所有的列名：
 
 ```python
-df.colums
+df.columns
 ```
 
 查看每列数据的数据类型，主要类型有 string、float、object 等。
@@ -111,3 +111,42 @@ pringt(len(unique_languages))
 ![[selecting coloums.png]]
 ## 计数、求和与直方图
 
+```python
+age = df["Age"]
+age.hist()
+```
+
+![[count-sum-hist.png]]
+## 数据排序
+
+```python
+# default
+df_sorted_by_age = df.sort_values(by="Age")
+
+type(df_sorted_by_age)
+
+len(df_sorted_by_age)
+
+df_sorted_by_age.head()
+
+# ascending
+df_sorted_by_age = df.sort_values(by="Age",ascending = False)
+df_sorted_by_age.head()
+```
+
+![[sort-rank.png]]
+## 多列排序
+
+```python
+# sort by age descending, then hours spent studying descending
+# find highest studiers by age
+columns =["Age","HoursLearning"]
+order =[False,False]
+
+sorted_by_age_and_hours = df.sort_values(by=columns, ascending=order)
+type(sorted_by_age_and_hours)
+len(sorted_by_age_and_hours)
+sorted_by_age_and_hours.head()
+```
+
+![[multi-columns-sort.png]]

@@ -11,14 +11,10 @@
             "id": "ab00fcb117e24d36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           },
           {
@@ -27,44 +23,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "雅思/雅思听力.md",
+                "file": "因果推断/基础理论/030 因果图的概念和要素.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "雅思听力"
+              "title": "030 因果图的概念和要素"
             }
           },
           {
-            "id": "b7d3988d3ebf2fde",
+            "id": "da8edb26ad845935",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "因果推断/基础理论/030 因果图的概率和要素.md",
+                "file": "因果推断/cases/联立性偏差.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "030 因果图的概率和要素"
-            }
-          },
-          {
-            "id": "dc0eebabae4b3d1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "待分类/结构方程模型.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "结构方程模型"
+              "title": "联立性偏差"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,54 +203,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7d3988d3ebf2fde",
+  "active": "766f4c81a55a5504",
   "lastOpenFiles": [
-    "待分类/结构方程模型.md",
-    "因果推断/基础理论/030 因果图的概率和要素.md",
+    "因果推断/cases/联立性偏差.md",
+    "因果推断/基础理论/030 因果图的概念和要素.md",
     "obsidian-explore/obsidian-learning.md",
+    "Python/data analysis/Python数据分析.md",
+    "Python/data analysis/tmps2oiep55",
+    "Python/images/multi-columns-sort.png",
+    "Python/images/sort-rank.png",
+    "Python/images/count-sum-hist.png",
+    "Python/data analysis/tmpatwvy_rg",
+    "Python/data analysis/tmp0ge2qvqg",
+    "Python/data analysis/tmp7zmmi_fp",
+    "Python/data analysis/tmpirlgdp5n",
+    "Python/data analysis/tmp6_ret08x",
+    "Python/data analysis/data_analysis.py",
+    "Python/data analysis/data_analysis.ipynb",
+    "雅思/雅思听力.md",
+    "雅思/雅思阅读.md",
+    "雅思/images/填空题.png",
+    "README.md",
+    "雅思/images/判断题.png",
+    "雅思/images/reading heading.png",
+    "雅思/听力个人信息表.md",
+    "雅思/雅思听力-个人信息.canvas",
+    "待分类/结构方程模型.md",
     "因果推断/基础理论/第三章 因果图.md",
     "因果推断/基础理论/022 可忽略性假定.md",
-    "Python/data analysis/Python数据分析.md",
     "Python/images/selecting coloums.png",
     "Python/images/selection.png",
     "Python/images/analogy-attributes-methods.png",
     "因果推断/基础理论/021 干预效应.md",
     "Python/images/attributes and methods.png",
-    "Python/images/object type.png",
-    "Git-usage/images/unable to access.png",
-    "Git-usage/images/obsidian-git-icon.png",
     "Git-usage/GitHub 报错汇总.md",
-    "README.md",
     "obsidian-explore/在obsidian中使用 Python.md",
     "Python/dataset/survey_data.csv",
     "Python/data analysis/Survey_Data.csv",
-    "Python/data analysis/dataset/Survey_Data.csv",
-    "Python/data analysis/dataset/Survey-Data.csv",
-    "Python/dataset",
-    "Python/images/read csv.png",
-    "Python/dataset/Survey-Data.csv",
-    "Python/dataset/2016-FCC-New-Coders-Survey-Data.csv",
-    "Python/dataset",
-    "Python/New folder",
-    "Python/images/data analysis.png",
-    "Python/images/pandas.png",
-    "Python/images",
     "待分类/待分类.md",
-    "雅思/雅思听力.md",
     "贝叶斯统计/Bayesian Modeling and Computation.md",
     "贝叶斯统计/贝叶斯统计参考资料.md",
-    "雅思/听力个人信息表.md",
     "Git-usage/修改Github项目语言.md",
     "Git-usage/Git-usage.md",
-    "雅思/雅思听力-个人信息.canvas",
     "AI 辅助编程/Trae.md",
     "Zotero/quick-start.md",
     "Zotero/Zotero Guide.md",
     "Git-usage/Git 设置、查看、取消代理.md",
     "Docker/Docker实战攻略.md",
     "Git-usage/Git 主要用法.md",
-    "Docker/4. 运行容器.md",
-    "Docker/5. 常用命令示例.md",
-    "Docker/6. Dcoker run 其他参数.md"
+    "Docker/4. 运行容器.md"
   ]
 }
