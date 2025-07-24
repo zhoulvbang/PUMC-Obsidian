@@ -17,7 +17,7 @@ Obsidian 的插件中有一个可用与直接在 Obsidian 中连接 GitHub实现
 
 2025-07-14，在B站学习了一些 Docker 的用法：[[Docker实战攻略]]
 
-2025-07-15，为了能让项目使用更舒适和简便，探索了 obsidian 的一些用法特性：[[obsidian-learning]]；同时探索了项目的 git 管理：[[Git-usage]]
+2025-07-15，为了能让项目使用更舒适和简便，探索了 obsidian 的一些用法特性：[[obsidian-usage]]；同时探索了项目的 git 管理：[[Git-usage]]
 
 2025-07-16，开始记录和整理 SAS 软件的学习和使用过程：[[SAS 学习记录]]
 

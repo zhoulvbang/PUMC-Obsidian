@@ -10,6 +10,8 @@
 
 [[在obsidian中使用 Python]]
 
+[[连接 Chrome 与 Obsidian]]
+
 ### **在文档中插入 note**
 
 代码形如：
