@@ -1,5 +1,6 @@
 [
   "obsidian-minimal-settings",
   "obsidian-git",
-  "execute-code"
+  "execute-code",
+  "obsidian-local-rest-api"
 ]
