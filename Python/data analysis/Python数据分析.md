@@ -150,3 +150,107 @@ sorted_by_age_and_hours.head()
 ```
 
 ![[multi-columns-sort.png]]
+
+## 筛选数据
+
+```python
+unique_genders = pd.unique(df["Gender"])
+print(unique_genders)
+
+female_respondents = df[df["Gender"] == "female"]
+type(female_respondents)
+female_respondents.head()
+
+len(female_respondents)
+len(female_respondents) / len(df)
+
+female_respondents["Age"].hist()
+```
+
+![[select data.png]]
+## 多条件筛选
+
+```python
+female_and_above_30 = df[(df["Gender"] == "female") & (df["Age"] >= 30 )]
+
+len(female_and_above_30)
+
+female_and_above_30.sample(10)
+```
+
+![[多条件筛选.png]]
+
+## 行选择
+
+![[行选择-1.png]]
+
+```python
+df['RowID'] = range(len(df))
+index_df = df.set_index("RowID")
+index_df.head()
+
+# loc
+index_df.loc[14354]
+
+response_1001 = index_df.iloc[1000]
+type(response_1001)
+# output：pandas.core.series.Series
+
+response_1001.index
+
+# 从8888开始的5行，一个切片数据框
+range_of_rows = index_df.iloc[8888:8893]
+
+type(range_of_rows)
+# output：pandas.core.frame.DataFrame
+
+# 显示切片
+range_of_rows
+```
+
+因为从 csv 导入的数据中没有定义 ID，这里定义一个 ID，用排序做 ID。
+
+![[行选择-2.png]]
+
+![[行选择-3-切片.png]]
+
+## 集中趋势、离散趋势与偏态
+
+```python
+# 集中趋势、离散趋势与偏态
+hours = df["HoursLearning"]
+hours.hist()
+
+# 计算均数
+hours.mean()
+
+# 查看中位数
+hours.median()
+
+# 计算标准差
+hours.std()
+
+# 获得四分位数
+hours_25th = hours.quantile(0.25)
+hours_50th = hours.quantile(0.5)
+hours_75th = hours.quantile(0.75)
+
+print(hours_25th)
+
+# 一起获得百分数
+percentiles = hours.quantile([0.25,0.5,0.75])
+print(percentiles)
+
+type(percentiles)
+
+# describe
+hours.describe()
+
+# 偏态程度
+hours.skew()
+
+# 所有的特征describe
+df.describe()
+```
+
+![[集中-离散趋势-偏态.png]]
