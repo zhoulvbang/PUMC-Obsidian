@@ -254,3 +254,50 @@ df.describe()
 ```
 
 ![[集中-离散趋势-偏态.png]]
+
+## 如何处理分类数据
+
+**Goals:**
+- Describe the distribution of gender
+- ldentify the top 5 languages spoken at home
+
+先检查一下数据名称与类型：
+
+```python
+df.dtypes
+```
+
+接下来的操作涵盖数据类型检验与绘图
+
+```python
+counts_of_gender = df["Gender"].value_counts()
+counts_of_gender
+
+type(counts_of_gender)
+counts_of_gender["male"]
+
+# plot
+counts_of_gender.plot(kind="bar")
+
+# promote
+counts_of_gender.plot(
+    kind="bar",
+    color="skyblue",
+    title="Counts of Gender",
+    xlabel="Gender",
+    ylabel="Count",
+    figsize=(8,6)
+)
+
+# top 5 languages
+counts_top_languages = df["LanguageAtHome"].value_counts()
+type(counts_top_languages)
+counts_top_languages.head()
+
+len(counts_top_languages)
+counts_top_languages.plot(kind="bar")
+top_5_languages = counts_top_languages.head()
+top_5_languages.plot(kind="bar")
+```
+
+![[处理分类数据.png]]
