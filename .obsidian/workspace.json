@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/data analysis/Python 数据可视化.md",
+                "file": "Docker/4. 运行容器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python 数据可视化"
+              "title": "4. 运行容器"
             }
           },
           {
@@ -237,6 +237,9 @@
   },
   "active": "87ded23842aa81cf",
   "lastOpenFiles": [
+    "Docker/6. Dcoker run 其他参数.md",
+    "Docker/5. 常用命令示例.md",
+    "Python/data analysis/Python 数据可视化.md",
     "Python/dataset/main/data_analysis.py",
     "Python/dataset/data_analysis.py",
     "Python/dataset/main/data-visual.py",
@@ -251,7 +254,6 @@
     "Python/images/matplotlib-function.png",
     "Python/images/数据可视化简介.png",
     "Python/Python usage.md",
-    "Python/data analysis/Python 数据可视化.md",
     "Python/data analysis/Python数据分析.md",
     "Python/images/多特征分群.png",
     "Python/images/单特征分群.png",
@@ -259,7 +261,6 @@
     "R/R绘图笔记  R语言绘图系统与常见绘图函数及参数-CSDN博客.md",
     "README.md",
     "R/R usage.md",
-    "R",
     "Python/images/处理分类数据.png",
     "Python/images/集中-离散趋势-偏态.png",
     "Python/images/行选择-3-切片.png",
@@ -282,7 +283,6 @@
     "雅思/雅思听力.md",
     "雅思/雅思阅读.md",
     "因果推断/基础理论/032 因果图事业中的内生性问题.md",
-    "因果推断/基础理论/031 因果图的理论逻辑.md",
     "雅思/雅思听力-个人信息.canvas"
   ]
 }
