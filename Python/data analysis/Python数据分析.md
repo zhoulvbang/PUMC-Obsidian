@@ -301,3 +301,66 @@ top_5_languages.plot(kind="bar")
 ```
 
 ![[处理分类数据.png]]
+
+## 相关分析
+
+**Goals: Calculate correlations between**
+- Income and money spent learning to code
+- Age and hours spent learning to code
+
+```python
+# 相关分析
+df.plot(kind="scatter",x="Income",y="MoneyForLearning")
+df.plot(kind="scatter",x="Age",y="MoneyForLearning")
+
+columns_for_corr = ["Age","MoneyForLearning","Income"]
+
+columns_corr = df[columns_for_corr]
+type(columns_corr)
+
+columns_corr.head()
+
+columns_corr.corr()
+```
+
+![[相关分析.png]]
+
+## 单特征分群
+
+**Goal: Determine whether hours spent learning to code varies by number of children**
+
+![[单特征分群.png]]
+## 多特征分群
+
+```python
+#segment by two features->use pivot table
+df.pivot_table(
+    index="ChildrenNumber", # corresponds to row
+    columns="IsSoftwareDev",
+    values="HoursLearning"
+)
+
+df.pivot_table(
+    index="ChildrenNumber", # corresponds to row
+    columns="IsSoftwareDev",
+    values="HoursLearning",
+    aggfunc="mean"
+)
+
+
+df.pivot_table(
+    index="ChildrenNumber", # corresponds to row
+    columns="IsSoftwareDev",
+    values="HoursLearning",
+    aggfunc="sum"
+)
+
+df.pivot_table(
+    index="ChildrenNumber", # corresponds to row
+    columns="IsSoftwareDev",
+    values="HoursLearning",
+    aggfunc=["min","median","max"]
+)
+```
+
+![[多特征分群.png]]
