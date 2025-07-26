@@ -20,3 +20,5 @@
 
 **[Loan-Approval-Classification-Dataset](https://github.com/CR7-800/Loan-Approval-Classification-Dataset)**
 
+数据集来自 kaggle 中的 [# Loan Approval Classification Dataset](https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data)
+
