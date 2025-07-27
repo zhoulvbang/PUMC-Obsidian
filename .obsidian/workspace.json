@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "452637eee234e9a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "因果推断/基础方法/042 条件独立假定.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "042 条件独立假定"
+            }
+          },
+          {
             "id": "efe87d177496b737",
             "type": "leaf",
             "state": {
@@ -36,35 +50,7 @@
             }
           },
           {
-            "id": "d9afbe49597f50fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "因果推断/supports/异方差稳健标准误：一些实际考虑（一）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "异方差稳健标准误：一些实际考虑（一）"
-            }
-          },
-          {
-            "id": "b99f47821039fc4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian-explore/obsidian-usage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "obsidian-usage"
-            }
-          },
-          {
-            "id": "8b989ec2c2aa3508",
+            "id": "41f4084ba0a08fe0",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -73,7 +59,8 @@
               "title": "关系图谱"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -230,54 +217,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da8edb26ad845935",
+  "active": "41f4084ba0a08fe0",
   "lastOpenFiles": [
-    "因果推断/基础方法/042 条件独立假定.md",
     "因果推断/基础方法/040 理解线性回归.md",
     "因果推断/supports/异方差稳健标准误：一些实际考虑（一）.md",
     "obsidian-explore/obsidian-usage.md",
-    "因果推断/基础方法/041 模型设定假定.md",
-    "因果推断/cases/联立性偏差.md",
-    "R/R绘图笔记  R语言绘图系统与常见绘图函数及参数-CSDN博客.md",
     "README.md",
-    "Python/data analysis/Python数据分析.md",
-    "Docker/4. 运行容器.md",
-    "Docker/6. Dcoker run 其他参数.md",
-    "Docker/5. 常用命令示例.md",
-    "Python/data analysis/Python 数据可视化.md",
+    "Sample GenBank Record.md",
+    "生信学习/生信学习概览.md",
+    "Docker/2. Docker 安装.md",
+    "Linux/设置 WSL 开发环境.md",
+    "生信学习/生物信息基础与公共数据库/公共数据库/UCSC-加州大学圣克鲁斯分校基因组浏览器.md",
+    "生信学习/生物信息基础与公共数据库/公共数据库/UCSC-hg38.md",
+    "生信学习/生物信息基础与公共数据库/公共数据库/TCGA -The Cancer Genome Atlas.md",
+    "生信学习/生物信息基础与公共数据库/公共数据库/NCBI-美国国家生物技术信息中心.md",
+    "生信学习/生物信息基础与公共数据库/公共数据库/GEO.md",
+    "生信学习/生物信息基础与公共数据库/公共数据库/CNCB-国家生物信息中心.md",
+    "生信学习/生物信息基础与公共数据库/公共数据库/EBI-欧洲生物信息学研究所.md",
+    "生信学习/生物信息基础与公共数据库/公共数据库",
+    "生信学习/生物信息基础与公共数据库/主要生信格式/SAM格式.md",
+    "生信学习/生物信息基础与公共数据库/主要生信格式/GTF格式.md",
+    "生信学习/生物信息基础与公共数据库/主要生信格式/GFF格式.md",
+    "生信学习/生物信息基础与公共数据库/主要生信格式/BAM 格式.md",
+    "生信学习/生物信息基础与公共数据库/主要生信格式",
+    "生信学习/生物信息基础与公共数据库/生物信息学基础.md",
+    "生信学习/生物信息基础与公共数据库/常见数据类型与文件格式.md",
+    "生信学习/生物信息基础与公共数据库/公共数据库资源与下载.md",
+    "生信学习/生物信息基础与公共数据库",
+    "生信学习/Linux高级操作/版本控制软件Git.md",
+    "生信学习/Linux高级操作/Miniconda 安装配置方法.md",
+    "生信学习/Linux高级操作/Linux集群与Slurm任务提交.md",
+    "生信学习/Linux高级操作/Linux下软件安装与环境配置.md",
+    "生信学习/Linux高级操作",
+    "生信学习/Linux基础操作",
+    "生信学习/images/基于科研方法.png",
+    "生信学习/images/分子生物信息流.png",
+    "生信学习/images/WSL-install.png",
+    "生信学习/images/UCSC-mianpage.png",
+    "生信学习/images/UCSC-DOWNLOADS.png",
+    "生信学习/images/UCSC Xena.png",
+    "生信学习/images/TCGA-sort.png",
+    "生信学习/images/table-browser.png",
+    "生信学习/images/Slurm.png",
+    "生信学习/images/Sample GenBank Record.png",
+    "生信学习/images",
+    "生信学习/AI辅助编程简介",
+    "生信学习",
+    "New folder",
     "Python/dataset/main/data_analysis.py",
-    "Python/dataset/data_analysis.py",
-    "Python/dataset/main/data-visual.py",
-    "Python/dataset/main/tmplq9lvue5",
-    "Python/dataset/main",
-    "Python/dataset/New folder",
-    "Python/dataset/loan_borowwer_data.csv",
-    "Python/dataset/未确认 905997.crdownload",
-    "Python/dataset/loan_data.csv",
-    "Python/dataset/未确认 46189.crdownload",
-    "Python/images/matplotlib原理.png",
-    "Python/images/matplotlib-function.png",
-    "Python/images/数据可视化简介.png",
-    "Python/Python usage.md",
-    "Python/images/多特征分群.png",
-    "Python/images/单特征分群.png",
-    "Python/images/相关分析.png",
-    "R/R usage.md",
-    "Python/images/处理分类数据.png",
-    "Python/images/集中-离散趋势-偏态.png",
-    "Python/images/行选择-3-切片.png",
-    "Python/images/行选择-2.png",
-    "Python/Python bugs/spyder 不显示绘图.md",
-    "因果推断/基础理论/030 因果图的概念和要素.md",
-    "贝叶斯统计/Bayesian Modeling and Computation.md",
-    "obsidian-explore/连接 Chrome 与 Obsidian.md",
-    "Clippings/回归分析笔记（六）：回归模型的矩阵表示.md",
-    "因果推断/基础方法/第四章 线性回归.md",
-    "雅思/雅思学习备忘录.md",
-    "SAS/SAS 学习记录.md",
-    "SAS/SAS Viya应用简介.md",
-    "SAS/Free SAS Certification Practice Exams.md",
-    "SAS/使用 SAS Viya.md",
     "雅思/雅思听力-个人信息.canvas"
   ]
 }

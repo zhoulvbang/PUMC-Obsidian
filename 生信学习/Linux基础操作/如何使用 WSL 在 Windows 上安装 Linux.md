@@ -130,7 +130,7 @@ Install using 'wsl --install -d <Distro>'.
 
 ## 设置 Linux 用户信息
 
-安装 WSL 后，需要为新安装的 Linux 分发版创建用户帐户和密码。 请参阅 [[设置 WSL 开发环境]](https://learn.microsoft.com/zh-cn/windows/wsl/setup/environment#set-up-your-linux-username-and-password) ，了解详细信息。
+安装 WSL 后，需要为新安装的 Linux 分发版创建用户帐户和密码。 请参阅 [[生信学习/Linux基础操作/设置 WSL 开发环境]](https://learn.microsoft.com/zh-cn/windows/wsl/setup/environment#set-up-your-linux-username-and-password) ，了解详细信息。
 
 ![[Linux username.png]]
 ## 配置和最佳实践

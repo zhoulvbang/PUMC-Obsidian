@@ -1,0 +1,9 @@
+- 插件类(VS Code)
+	- GitHub Copilot - https://code.visualstudio.com/docs/copilot/overview
+	- Amazon Q Developer
+	- 通义灵码(阿里)
+	- MarsCode(豆包)
+- 集成环境类(IDE)
+	- Cursor - https://cursor.com/
+	- Windsurf - https://codeium.com/windsurf
+	- Trae - https://www.trae.com.cn/
