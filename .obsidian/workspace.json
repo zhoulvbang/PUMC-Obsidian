@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "因果推断/基础方法/042 条件独立假定.md",
+                "file": "LaTeX/LaTeX常见符号及代码.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "042 条件独立假定"
+              "title": "LaTeX常见符号及代码"
+            }
+          },
+          {
+            "id": "57a7643243a68aa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LaTeX/LaTeX常见符号及代码.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LaTeX常见符号及代码"
             }
           },
           {
@@ -53,14 +67,18 @@
             "id": "41f4084ba0a08fe0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "R/R usage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "R usage"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,9 +235,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41f4084ba0a08fe0",
+  "active": "452637eee234e9a3",
   "lastOpenFiles": [
+    "因果推断/基础方法/042 条件独立假定.md",
     "因果推断/基础方法/040 理解线性回归.md",
+    "LaTeX/LaTeX常见符号及代码.md",
+    "因果推断/基础方法/041 模型设定假定.md",
+    "LaTeX",
+    "R/R usage.md",
     "因果推断/supports/异方差稳健标准误：一些实际考虑（一）.md",
     "obsidian-explore/obsidian-usage.md",
     "README.md",
@@ -244,10 +267,6 @@
     "生信学习/生物信息基础与公共数据库/常见数据类型与文件格式.md",
     "生信学习/生物信息基础与公共数据库/公共数据库资源与下载.md",
     "生信学习/生物信息基础与公共数据库",
-    "生信学习/Linux高级操作/版本控制软件Git.md",
-    "生信学习/Linux高级操作/Miniconda 安装配置方法.md",
-    "生信学习/Linux高级操作/Linux集群与Slurm任务提交.md",
-    "生信学习/Linux高级操作/Linux下软件安装与环境配置.md",
     "生信学习/Linux高级操作",
     "生信学习/Linux基础操作",
     "生信学习/images/基于科研方法.png",
@@ -264,7 +283,6 @@
     "生信学习/AI辅助编程简介",
     "生信学习",
     "New folder",
-    "Python/dataset/main/data_analysis.py",
     "雅思/雅思听力-个人信息.canvas"
   ]
 }
