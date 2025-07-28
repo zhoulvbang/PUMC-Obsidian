@@ -23,9 +23,9 @@ Obsidian 的插件中有一个可用与直接在 Obsidian 中连接 GitHub实现
 
 2025-07-19，记录一些 Zotero 的使用记录和技巧：[[Zotero Guide]]
 
-2025-07-20，AI 辅助编程一些记录[[Trae]]
+2025-07-20，AI 辅助编程一些记录 [[Trae]]
 
-2025-07-20，新开雅思笔记[[雅思学习备忘录]]
+2025-07-20，新开雅思笔记 [[雅思学习备忘录]]
 
 2025-07-21，新开贝叶斯统计笔记 [[Bayesian Modeling and Computation]]
 
@@ -34,6 +34,8 @@ Obsidian 的插件中有一个可用与直接在 Obsidian 中连接 GitHub实现
 2025-07-25，在配置好web clippings 以后，收藏整理关于 R 的内容：[[R usage]]
 
 2025-07-27，将之前已经整理好的生信学习笔记移入本项目 [[生信学习概览]]
+
+2025-07-28，从 Notion 中迁入部分 LaTeX 笔记 [[LaTeX-usage]]
 
 ---
 # 更新记录

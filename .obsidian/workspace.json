@@ -22,34 +22,6 @@
             }
           },
           {
-            "id": "452637eee234e9a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LaTeX/LaTeX常见符号及代码.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LaTeX常见符号及代码"
-            }
-          },
-          {
-            "id": "57a7643243a68aa0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LaTeX/LaTeX常见符号及代码.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LaTeX常见符号及代码"
-            }
-          },
-          {
             "id": "efe87d177496b737",
             "type": "leaf",
             "state": {
@@ -64,21 +36,31 @@
             }
           },
           {
-            "id": "41f4084ba0a08fe0",
+            "id": "322e78ef7ee8b470",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/R usage.md",
+                "file": "因果推断/基础方法/044 线性回归的stata命令.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "R usage"
+              "title": "044 线性回归的stata命令"
+            }
+          },
+          {
+            "id": "458514efe8ad7d5a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -131,7 +113,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -235,17 +218,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "452637eee234e9a3",
+  "active": "458514efe8ad7d5a",
   "lastOpenFiles": [
+    "因果推断/基础方法/044 线性回归的stata命令.md",
     "因果推断/基础方法/042 条件独立假定.md",
-    "因果推断/基础方法/040 理解线性回归.md",
-    "LaTeX/LaTeX常见符号及代码.md",
-    "因果推断/基础方法/041 模型设定假定.md",
-    "LaTeX",
     "R/R usage.md",
+    "因果推断/基础方法/040 理解线性回归.md",
+    "因果推断/基础方法/041 模型设定假定.md",
+    "LaTeX/LaTeX常见符号及代码.md",
+    "README.md",
+    "LaTeX/LaTeX-usage.md",
+    "LaTeX",
     "因果推断/supports/异方差稳健标准误：一些实际考虑（一）.md",
     "obsidian-explore/obsidian-usage.md",
-    "README.md",
     "Sample GenBank Record.md",
     "生信学习/生信学习概览.md",
     "Docker/2. Docker 安装.md",
@@ -264,8 +249,6 @@
     "生信学习/生物信息基础与公共数据库/主要生信格式/BAM 格式.md",
     "生信学习/生物信息基础与公共数据库/主要生信格式",
     "生信学习/生物信息基础与公共数据库/生物信息学基础.md",
-    "生信学习/生物信息基础与公共数据库/常见数据类型与文件格式.md",
-    "生信学习/生物信息基础与公共数据库/公共数据库资源与下载.md",
     "生信学习/生物信息基础与公共数据库",
     "生信学习/Linux高级操作",
     "生信学习/Linux基础操作",
