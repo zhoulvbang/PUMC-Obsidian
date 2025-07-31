@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/R usage.md",
+                "file": "Clippings/Heckman两步法  样本选择模型 & 处理效应模型_heckman两阶段模型-CSDN博客.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "R usage"
+              "title": "Heckman两步法  样本选择模型 & 处理效应模型_heckman两阶段模型-CSDN博客"
             }
           }
         ],
@@ -195,9 +195,10 @@
   },
   "active": "89585acb6e7353a9",
   "lastOpenFiles": [
+    "R/R usage.md",
+    "Clippings/Heckman两步法  样本选择模型 & 处理效应模型_heckman两阶段模型-CSDN博客.md",
     "R/一起来学孟德尔随机化(Mendelian Randomization)-CSDN博客.md",
     "R/R绘图笔记  R语言绘图系统与常见绘图函数及参数-CSDN博客.md",
-    "R/R usage.md",
     "待分类/待分类.md",
     "因果推断/基础方法/041 模型设定假定.md",
     "![](.md",
@@ -221,7 +222,6 @@
     "生信学习/生物信息基础与公共数据库/公共数据库/TCGA -The Cancer Genome Atlas.md",
     "生信学习/生物信息基础与公共数据库/公共数据库/NCBI-美国国家生物技术信息中心.md",
     "生信学习/生物信息基础与公共数据库/公共数据库/GEO.md",
-    "生信学习/生物信息基础与公共数据库/公共数据库/CNCB-国家生物信息中心.md",
     "生信学习/生物信息基础与公共数据库/公共数据库",
     "生信学习/生物信息基础与公共数据库/主要生信格式",
     "生信学习/生物信息基础与公共数据库",
