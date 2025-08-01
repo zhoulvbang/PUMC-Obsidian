@@ -1,14 +1,13 @@
 ---
-title: "一起来学孟德尔随机化(Mendelian Randomization)-CSDN博客"
-source: "https://blog.csdn.net/dege857/article/details/131363212"
-author:
-  - "[[成就一亿技术人!]]"
-  - "[[hope_wisdom 发出的红包]]"
-published:
+title: 一起来学孟德尔随机化(Mendelian Randomization)-CSDN博客
+source: https://blog.csdn.net/dege857/article/details/131363212
+author: 
+published: 
 created: 2025-07-30
-description: "文章浏览阅读6.1w次，点赞98次，收藏501次。我们通过TwoSampleMR包把它下载，先使用extract_instruments函数对暴露数据（就是体重BMI的SNP数据）ieu-a-835进行下载，如果是已经下载到电脑里面的数据，我们使用read_exposure_data函数和clump_data函数读取。这三步走完就可以进行MR分析了，代码非常简单。孟德尔随机化（Mendelian randomization，简称MR）是一种基于遗传变异的因果推断方法，其基本原理是利用自然界中的随机分配的基因型对表型的影响来推断生物学因素对疾病的影响。_孟德尔随机化"
+description: 文章浏览阅读6.1w次，点赞98次，收藏501次。我们通过TwoSampleMR包把它下载，先使用extract_instruments函数对暴露数据（就是体重BMI的SNP数据）ieu-a-835进行下载，如果是已经下载到电脑里面的数据，我们使用read_exposure_data函数和clump_data函数读取。这三步走完就可以进行MR分析了，代码非常简单。孟德尔随机化（Mendelian randomization，简称MR）是一种基于遗传变异的因果推断方法，其基本原理是利用自然界中的随机分配的基因型对表型的影响来推断生物学因素对疾病的影响。_孟德尔随机化
 tags:
-  - "clippings"
+  - clippings
+  - 模型
 ---
 # 一起来学孟德尔随机化(Mendelian Randomization)
 

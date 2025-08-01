@@ -1,8 +1,7 @@
 ---
 title: R绘图笔记 | R语言绘图系统与常见绘图函数及参数-CSDN博客
 source: https://blog.csdn.net/weixin_42655515/article/details/111167082
-author:
-  - 【云森】
+author: []
 published: 
 created: 2025-07-25
 description: 文章浏览阅读3.8k次，点赞5次，收藏62次。本文介绍了R语言中的四大绘图系统：base、grid、lattice和ggplot2，对比了它们的特点与应用场景，并详细解释了ggplot2的图形语法及其如何简化高质量图形的制作流程。
@@ -10,9 +9,6 @@ tags:
   - clippings
 ---
 本文介绍了R语言中的四大绘图系统：base、grid、lattice和ggplot2，对比了它们的特点与应用场景，并详细解释了ggplot2的图形语法及其如何简化高质量图形的制作流程。
-
-![](https://i-blog.csdnimg.cn/blog_migrate/2c594df7ff17bb4b6cb60e661f68a410.png)
-
 # **一. R语言绘图系统**  
 
 在 R 里，主要有两大底层图形系统，一是 base 图形系统，二是 [grid](https://so.csdn.net/so/search?q=grid&spm=1001.2101.3001.7020) 图形系统。lattice 包与 ggplot2包正是基于 grid 图形系统构建的，它们都有自己独特的图形语法。
@@ -36,6 +32,7 @@ javascript
 • 使用较多  
 
 ## **2.grid系统**  
+
 grid 图形系统可以很容易地控制图形基础单元，由Paul Murrell（2006）编写，给予编程者创作图形极大的灵活性。grid 图形系统还可以产生可编辑的图形组件，这些图形组件可以被复用和重组，并能通过 grid.layout()等函数，把图形输出到指定的位置上。但是因为 grid 包中没有提供生成统计图形及完整绘图的函数，因此很少直接采用 grid 包来分析与展示数据。  
 
 ## **3.lattice系统**  

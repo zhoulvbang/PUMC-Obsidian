@@ -37,6 +37,8 @@ Obsidian 的插件中有一个可用与直接在 Obsidian 中连接 GitHub实现
 
 2025-07-28，从 Notion 中迁入部分 LaTeX 笔记 [[LaTeX-usage]]
 
+2025-08-01，开始整理 Stata 的一些笔记 [[Stata-usage]]
+
 有一些尚未分类的记录放在：[[待分类]]
 
 ---
