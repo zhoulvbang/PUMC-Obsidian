@@ -47,3 +47,4 @@ teffects ra (ovar omvarlist [,omodel]) (tvar) [if] [in] [weight] [, options]
 - `control()`:设置与控制组对应的干预变量的取值，默认以取值为0的那一类作为控制组；
 - `tlevel()`:设置与干预组对应的干预变量的取值，默认以取值为1的那一类作为干预组；
 - `aequations`:汇报辅助回归结果，即如下两个方程(4.19)和方程(4.20)的估计结果。
+
