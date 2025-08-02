@@ -4,3 +4,7 @@
 
 [[一起来学孟德尔随机化(Mendelian Randomization)-CSDN博客]]
 
+[[机器学习用python还是R，哪个更好？]]
+
+[[如何高效地学好 R？]]
+
